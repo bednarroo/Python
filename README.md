@@ -1,2 +1,2 @@
-# Python_Jupyter
-Zadania z pytona
+# Python oraz Jupyter
+Zadania z pythona
